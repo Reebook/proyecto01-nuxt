@@ -2,6 +2,6 @@
 
 Realizado por David Alvarez
 
-Publicado en [https://stirring-sorbet-dc0c2e.netlify.app](https://stirring-sorbet-dc0c2e.netlify.app)
+Publicado en [https://golden-torrone-367e74.netlify.app](https://golden-torrone-367e74.netlify.app)
 
-Proyecto en Github  [https://github.com/Reebook/vue-tarea1-blog](https://github.com/Reebook/vue-tarea1-blog)
+Proyecto en Github  [https://github.com/Reebook/proyecto01-nuxt](https://github.com/Reebook/proyecto01-nuxt)
